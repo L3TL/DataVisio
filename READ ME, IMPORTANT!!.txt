@@ -1,0 +1,8 @@
+To start off, first place your dataset file that you wish to see in the data
+folder. Remember that this dataset file needs to be of a .JSON or .GEXF format.
+
+Then, enter the config.json file (open it with some text editor or anything to see its insides)
+In the "data" line, change the directory to your file. (so if your file is A.json, and it is
+in the data folder, type in "data/A.json".
+
+Save your changes, then run the 'index.html' file to visualize your file! (Must be via Mozilla Firefox)

@@ -1,0 +1,434 @@
+{
+  "nodes":[{
+    "label": "City A",
+    "x": "78.64646149",
+    "y": "-68.10621643",
+    "id": "1",
+    "attributes":{"Modularity Class":"3", "Traffic Intensity": "High", "color": "rgb(194,91,245)", "size": "5"},
+    "color": "rgb(194,91,245)",
+    "size": "5"
+  },
+  {
+    "label": "City B",
+    "x": "92.6355896",
+    "y": "50.31040192",
+    "id": "2",
+    "attributes":{"Modularity Class":"4","Traffic Intensity": "Low", "color": "rgb(194,91,245)", "size": "2" },
+    "color": "rgb(194,91,245)",
+    "size": "2"
+  },
+  {
+    "label": "City C",
+    "x": "-127.7015457",
+    "y": "362.5133057",
+    "id": "3",
+    "attributes":{"Modularity Class":"3", "Traffic Intensity": "Low", "color": "rgb(245,91,91)", "size": "1"},
+    "color": "rgb(245,91,91)",
+    "size": "1"
+  },
+  {
+    "label": "City D",
+    "x": "-158.0516815",
+    "y": "-10.0593719",
+    "id": "4",
+    "attributes":{"Modularity Class":"2", "Traffic Intensity": "Medium", "color": "rgb(245,91,91)", "size": "2"},
+    "color": "rgb(245,91,91)",
+    "size": "3"
+  },
+  {
+    "label": "City E",
+    "x": "-382.6956787",
+    "y": "-406.0350647",
+    "id": "5",
+    "attributes":{"Modularity Class":"6", "Traffic Intensity": "Low", "color": "rgb(91,91,245)", "size": "2"},
+    "color": "rgb(91,91,245)",
+    "size": "2"
+  },
+  {
+    "label": "City F",
+    "x": "646.4312744",
+    "y": "-387.1732483",
+    "id": "6",
+    "attributes":{"Modularity Class":"5", "Traffic Intensity": "Low", "color": "rgb(245,91,91)", "size": "1"},
+    "color": "rgb(91,245,91)",
+    "size": "1"
+  },
+  {
+    "label": "City G",
+    "x": "-516.5588379",
+    "y": "-196.1069031",
+    "id": "7",
+    "attributes":{"Modularity Class":"4", "Traffic Intensity": "High", "color": "rgb(91,194,245)", "size": "4"},
+    "color": "rgb(91,194,245)",
+    "size": "4"
+  },
+  {
+    "label": "City H",
+    "x": "165.4393921",
+    "y": "46.16756439",
+    "id": "8",
+    "attributes":{"Modularity Class":"3", "Traffic Intensity": "Medium", "color": "rgb(194,91,245)", "size": "3"},
+    "color": "rgb(194,91,245)",
+    "size": "3"
+  },
+  {
+    "label": "City I",
+    "x": "488.1353455",
+    "y": "-283.3605957",
+    "id": "9",
+    "attributes":{"Modularity Class":"2", "Traffic Intensity": "High", "color": "rgb(245,91,194)", "size": "4"},
+    "color": "rgb(245,91,194)",
+    "size": "4"
+  },
+  {
+    "label": "City J",
+    "x": "-187.0041809",
+    "y": "493.5794373",
+    "id": "10",
+    "attributes":{"Modularity Class":"2", "Traffic Intensity": "High", "color": "rgb(149,91,245)", "size": "5"},
+    "color": "rgb(194,91,245)",
+    "size": "5"
+  },
+  {
+    "label": "City K",
+    "x": "238.7936401",
+    "y": "204.2020416",
+    "id": "11",
+    "attributes":{"Modularity Class":"2", "Traffic Intensity": "Low", "color": "rgb(91,245,194)", "size": "1"},
+    "color": "rgb(91,245,194)",
+    "size": "1"
+  },
+  {
+    "label": "City L",
+    "x": "-225.7398376",
+    "y": "-163.1196442",
+    "id": "12",
+    "attributes":{"Modularity Class":"1", "Traffic Intensity": "Low", "color": "rgb(245,194,91)", "size": "2"},
+    "color": "rgb(245,194,91)",
+    "size": "2"
+  },
+  {
+    "label": "City M",
+    "x": "-338.2307129",
+    "y": "347.1514587",
+    "id": "13",
+    "attributes":{"Modularity Class":"1", "Traffic Intensity": "Medium", "color": "rgb(194,245,91)", "size": "3"},
+    "color": "rgb(194,245,91)",
+    "size": "3"
+  },
+  {
+    "label": "City N",
+    "x": "-89.34107208",
+    "y": "197.6982269",
+    "id": "14",
+    "attributes":{"Modularity Class":"1", "Traffic Intensity": "High", "color": "rgb(245,91,91)", "size": "4"},
+    "color": "rgb(245,91,91)",
+    "size": "4"
+  },
+  {
+    "label": "City O",
+    "x": "550.3201294",
+    "y": "-451.1677246",
+    "id": "15",
+    "attributes":{"Modularity Class":"2", "Traffic Intensity": "Low", "color": "rgb(245,91,194)", "size": "1"},
+    "color": "rgb(245,91,194)",
+    "size": "1"
+  },
+  {
+    "label": "City P",
+    "x": "-212.7635651",
+    "y": "-299.6903992",
+    "id": "16",
+    "attributes":{"Modularity Class":"3", "Traffic Intensity": "Low", "color": "rgb(245,91,91)", "size": "2"},
+    "color": "rgb(245,91,91)",
+    "size": "2"
+  },
+  {
+    "label": "City Q",
+    "x": "-313.4278564",
+    "y": "-47.24223328",
+    "id": "17",
+    "attributes":{"Modularity Class":"4", "Traffic Intensity": "Low", "color": "rgb(91,194,245)", "size": "2"},
+    "color": "rgb(91,194,245)",
+    "size": "2"
+  },
+  {
+    "label": "City R",
+    "x": "82.80825043",
+    "y": "-446.8853149",
+    "id": "18",
+    "attributes":{"Modularity Class":"2", "Traffic Intensity": "Low", "color": "rgb(91,245,194)", "size": "1"},
+    "color": "rgb(91,245,194)",
+    "size": "1"
+  },
+  {
+    "label": "City S",
+    "x": "-281.425293",
+    "y": "20.20668602",
+    "id": "19",
+    "attributes":{"Modularity Class":"4", "Traffic Intensity": "High", "color": "rgb(91,194,245)", "size": "4"},
+    "color": "rgb(91,194,245)",
+    "size": "4"
+  },
+  {
+    "label": "City T",
+    "x": "-122.4134827",
+    "y": "-204.6548767",
+    "id": "20",
+    "attributes":{"Modularity Class":"5", "Traffic Intensity": "Low", "color": "rgb(245,91,91)", "size": "2"},
+    "color": "rgb(245,91,91)",
+    "size": "2"
+  },
+  {
+    "label": "City U",
+    "x": "-385.2225952",
+    "y": "113.1506729",
+    "id": "21",
+    "attributes":{"Modularity Class":"4", "Traffic Intensity": "Medium", "color": "rgb(91,194,245)", "size": "3"},
+    "color": "rgb(91,194,245)",
+    "size": "3"
+  },
+  {
+    "label": "City V",
+    "x": "353.6641541",
+    "y": "128.1753693",
+    "id": "22",
+    "attributes":{"Modularity Class":"1", "Traffic Intensity": "Medium", "color": "rgb(194,91,245)", "size": "3.5"},
+    "color": "rgb(194,91,245)",
+    "size": "3.5"
+  },
+  {
+    "label": "City W",
+    "x": "4.63133955",
+    "y": "425.1330261",
+    "id": "23",
+    "attributes":{"Modularity Class":"2", "Traffic Intensity": "Low", "color": "rgb(91,245,194)", "size": "2.5"},
+    "color": "rgb(91,245,194)",
+    "size": "2.5"
+  },
+  {
+    "label": "City X",
+    "x": "238.3669739",
+    "y": "74.88245392",
+    "id": "24",
+    "attributes":{"Modularity Class":"4", "Traffic Intensity": "Low", "color": "rgb(91,245,194)", "size": "1"},
+    "color": "rgb(91,245,194)",
+    "size": "1"
+  },
+  {
+    "label": "City Y",
+    "x": "176.4831",
+    "y": "-123.3800507",
+    "id": "25",
+    "attributes":{"Modularity Class":"5", "Traffic Intensity": "Low", "color": "rgb(194,91,245)", "size": "1.5"},
+    "color": "rgb(194,91,245)",
+    "size": "1.5"
+  },
+  {
+    "label": "City z",
+    "x": "238.367",
+    "y": "-235.2628326",
+    "id": "26",
+    "attributes":{"Modularity Class":"1", "Traffic Intensity": "High", "color": "rgb(91,245,91)", "size": "4.5"},
+    "color": "rgb(91,245,91)",
+    "size": "4.5"
+  }
+],
+  "edges":[{
+    "source": "4",
+    "target": "5",
+    "id": "1",
+    "color": "rgb(245,91,91)",
+    "size": "1.013683894"
+  },
+  {
+    "source": "6",
+    "target": "26",
+    "id": "2",
+    "color": "rgb(91,245,91)",
+    "size": "2.364967031"
+  },
+  {
+    "source": "1",
+    "target": "26",
+    "id": "3",
+    "color": "rgb(194,91,245)",
+    "size": "2.639431736"
+  },
+  {
+    "source": "16",
+    "target": "2",
+    "id": "4",
+    "color": "rgb(245,91,91)",
+    "size": "2.994357142"
+  },
+  {
+    "source": "14",
+    "target": "23",
+    "id": "5",
+    "color": "rgb(245,91,91)",
+    "size": "2.83580318"
+  },
+  {
+    "source": "20",
+    "target": "25",
+    "id": "6",
+    "color": "rgb(245,91,91)",
+    "size": "1.568832439"
+  },
+  {
+    "source": "10",
+    "target": "5",
+    "id": "7",
+    "color": "rgb(194,91,245)",
+    "size": "2.215931112"
+  },
+  {
+    "source": "17",
+    "target": "15",
+    "id": "8",
+    "color": "rgb(91,194,245)",
+    "size": "2.795415525"
+  },
+  {
+    "source": "7",
+    "target": "22",
+    "id": "9",
+    "color": "rgb(91,194,245)",
+    "size": "2.324493767"
+  },
+  {
+    "source": "19",
+    "target": "26",
+    "id": "10",
+    "color": "rgb(91,194,245)",
+    "size": "2.674703534"
+  },
+  {
+    "source": "5",
+    "target": "21",
+    "id": "11",
+    "color": "rgb(91,91,245)",
+    "size": "1.348146821"
+  },
+  {
+    "source": "12",
+    "target": "9",
+    "id": "12",
+    "color": "rgb(245,194,91)",
+    "size": "1.339354397"
+  },
+  {
+    "source": "5",
+    "target": "14",
+    "id": "13",
+    "color": "rgb(91,91,245)",
+    "size": "2.019544798"
+  },
+  {
+    "source": "20",
+    "target": "22",
+    "id": "14",
+    "color": "rgb(245,91,91)",
+    "size": "2.161939871"
+  },
+  {
+    "source": "15",
+    "target": "17",
+    "id": "15",
+    "color": "rgb(245,91,194)",
+    "size": "2.045581151"
+  },
+  {
+    "source": "14",
+    "target": "25",
+    "id": "16",
+    "color": "rgb(245,91,91)",
+    "size": "1.564618732"
+  },
+  {
+    "source": "12",
+    "target": "11",
+    "id": "17",
+    "color": "rgb(245,194,91)",
+    "size": "2.179584368"
+  },
+  {
+    "source": "12",
+    "target": "5",
+    "id": "18",
+    "color": "rgb(245,194,91)",
+    "size": "2.593660512"
+  },
+  {
+    "source": "17",
+    "target": "7",
+    "id": "19",
+    "color": "rgb(91,194,245)",
+    "size": "1.274620335"
+  },
+  {
+    "source": "15",
+    "target": "13",
+    "id": "20",
+    "color": "rgb(245,91,194)",
+    "size": "1.659505881"
+  },
+  {
+    "source": "4",
+    "target": "5",
+    "id": "21",
+    "color": "rgb(245,91,91)",
+    "size": "1.320067131"
+  },
+  {
+    "source": "12",
+    "target": "2",
+    "id": "22",
+    "color": "rgb(245,194,91)",
+    "size": "2.739274675"
+  },
+  {
+    "source": "2",
+    "target": "16",
+    "id": "23",
+    "color": "rgb(194,91,245)",
+    "size": "2.885212302"
+  },
+  {
+    "source": "21",
+    "target": "2",
+    "id": "24",
+    "color": "rgb(91,194,245)",
+    "size": "2.247196574"
+  },
+  {
+    "source": "11",
+    "target": "26",
+    "id": "25",
+    "color": "rgb(91,245,194)",
+    "size": "2.953192991"
+  },
+  {
+    "source": "17",
+    "target": "9",
+    "id": "26",
+    "color": "rgb(91,194,245)",
+    "size": "1.821227914"
+  },
+  {
+    "source": "26",
+    "target": "9",
+    "id": "27",
+    "color": "rgb(91,245,91)",
+    "size": "2.821227914"
+  },
+  {
+    "source": "4",
+    "target": "13",
+    "id": "28",
+    "color": "rgb(245,91,91)",
+    "size": "3.821227914"
+  }
+]
+}

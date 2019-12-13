@@ -1,0 +1,57 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data/data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Hello!"
+  },
+  "text": {
+    "more": "Welcome to <b>DataVisio </b>! Here, you can see your imported dataset file as a network graph! <br/> A few things to remember are: <br/> -Hover over your nodes to see who are it's neighbors <br/> -Should you wish to know more about that node, select it to see it's details in full! <br/> You may also select those node's neighbors to travel to them! <br/> Have Fun!!",
+    "intro": "Here you can visualize your own selected dataset file! <br/><i> Currently only accepts .JSON and .GEXF filetypes </i>",
+    "title": "<b><u>DataVisio</b></u>"
+  },
+  "legend": {
+    "edgeLabel": "<b>Relationships</b> <br/> These are the edges of the graph, that connect nodes to each other",
+    "colorLabel": "<b>Modularity </b><br/> These are factors that differentiate nodes and edges in the graph",
+    "nodeLabel": "<b>Data Objects </b> <br/> These are the nodes of the graph"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "color",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": true
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#fff",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#fff",
+      "labelThreshold": 7,
+      "defaultLabelHoverColor": "#000",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 15,
+      "borderSize": 2,
+      "nodeBorderColor": "default",
+      "defaultNodeBorderColor": "#fff",
+      "defaultBorderView": "always"
+    },
+    "graphProperties": {
+      "maxEdgeSize": 2,
+      "minEdgeSize": 0.5,
+      "minNodeSize": 1,
+      "maxNodeSize": 15
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
