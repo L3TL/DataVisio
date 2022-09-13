@@ -1,4 +1,5 @@
 # DataVisio: Javascript Graph Visualizer
+To view this in action, click here! https://l3tl.github.io/DataVisio/# 
 
 ## Overview
 Viewing database relations (*at the time*) is tricky due to multiple, overlapping dependencies that can often be bidirectional, unidirectional, or even conditional. The idea is to have a simple tool capable of viewing this in a visual, easy-to-understand format.
